@@ -1,6 +1,6 @@
 
 ### Easy
-1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) &emsp;Day 1 ✅
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 4. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
@@ -20,7 +20,7 @@
 18. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
-21. [Two Sum](https://leetcode.com/problems/two-sum/)
+21. [Two Sum](https://leetcode.com/problems/two-sum/) &emsp;Day 1 ✅
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
