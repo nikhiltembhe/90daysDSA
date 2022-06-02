@@ -18,7 +18,7 @@ public class Java1DArrayHC {
 
             // Prints each sequential element in array a
             for (int i = 0; i < a.length; i++) {
-                System.out.println(a[i]);
+                System.out.print(a[i] + " ");
             }
         }
     }
